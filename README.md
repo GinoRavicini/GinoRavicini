@@ -30,7 +30,7 @@ Desarrollador web enfocado en sistemas de gestión
 🔹 **Sistema ERP**  
 Sistema de gestión con ventas, stock y usuarios.
 
-- 🌐 Demo: (tu link de Vercel)  
+- 🌐 Demo: https://portafolio-5mfx-git-master-ginoravicinis-projects.vercel.app/#inicio) 
 - 📄 Documentación: docs/ERP.pdf  
 
 ---
@@ -38,8 +38,8 @@ Sistema de gestión con ventas, stock y usuarios.
 ## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:tuemail@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/">💼 LinkedIn</a> •
+  <a href="mailto:Dante.ravicini@gmail.com">📧 Email</a> •
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/gino-ravicini-0b1860312/)">💼 LinkedIn</a> •
   <a href="https://github.com/">💻 GitHub</a> •
-  <a href="https://wa.me/tu_numero">📱 WhatsApp</a>
+  <a href="https://wa.me/5493454171236">📱 WhatsApp</a>
 </p>
